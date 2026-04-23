@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Generalist+in+Progress;Full+Stack+Developer;Building+Things+That+Think;On+a+Side+Quest+with+My+Laptop;Learning+%26+Growing+Daily&font=Fira%20Code&center=false&width=550&height=45">
+</p>
 
 I'm Shreeya, a BTech student exploring AI, machine learning, and full-stack development.
 
