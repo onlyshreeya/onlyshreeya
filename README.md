@@ -2,8 +2,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Generalist+in+Progress;Full+Stack+Developer;Building+Things+That+Think;On+a+Side+Quest+with+My+Laptop;Learning+%26+Growing+Daily&font=Fira%20Code&center=false&width=550&height=45">
 </p>
-
-
 I'm Shreeya, a BTech student exploring AI, machine learning, and full-stack development.
 
 I enjoy building intelligent web applications that combine backend systems with AI-driven features. Currently, I'm working on projects that focus on real-world problem solving, including dashboards and smart web apps.
@@ -25,16 +23,12 @@ Outside of coding, I enjoy creative projects, fashion, and exploring new ideas t
 </p>
 
 ---
----
-
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyshreeya&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyshreeya&theme=tokyonight">
-</p>
-
----
 
 
 🔗 Let's connect!
-www.linkedin.com/in/shreeyasrivastava19
+<p>
+  <a href="https://www.linkedin.com/in/shreeyasrivastava19">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
