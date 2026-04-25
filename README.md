@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Specialist;Full+Stack+Developer;Building+Things+That+Are+AMAZING;Always+On+a+Side+Quest+with+My+Laptop;Learning+%26+Growing+Daily&font=Fira%20Code&center=false&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Specialist;Full+Stack+Developer;Building+Things+That+Are+AMAZING;On+A+Side+Quest+Or++My+Laptop+Right+Now;Learning+%26+Growing+Daily&font=Fira%20Code&center=false&width=550&height=45">
 </p>
 I'm Shreeya, a BTech student exploring AI, machine learning, and full-stack development.
 
